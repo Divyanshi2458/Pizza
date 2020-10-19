@@ -1,0 +1,10 @@
+INGREDIENTS OF PIZZA:
+Water(2 Cups)
+Flour(3 Cups)
+Yeast(2 Teaspoons)
+Salt(As per taste)
+Butter(2 Cubes)
+Tomato(3)
+Seasoning(As per taste)
+Cheese(As per taste)
+Topping(Mushrooms,pepperoni,capsicum,etc)
